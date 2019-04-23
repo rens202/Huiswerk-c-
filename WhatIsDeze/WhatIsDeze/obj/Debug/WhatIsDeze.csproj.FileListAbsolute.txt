@@ -1,0 +1,10 @@
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\bin\Debug\WhatIsDeze.exe.config
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\bin\Debug\WhatIsDeze.exe
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\bin\Debug\WhatIsDeze.pdb
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\obj\Debug\WhatIsDeze.csprojAssemblyReference.cache
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\obj\Debug\WhatIsDeze.Form1.resources
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\obj\Debug\WhatIsDeze.Properties.Resources.resources
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\obj\Debug\WhatIsDeze.csproj.GenerateResource.cache
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\obj\Debug\WhatIsDeze.csproj.CoreCompileInputs.cache
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\obj\Debug\WhatIsDeze.exe
+C:\Users\rensd\source\repos\WhatIsDeze\WhatIsDeze\obj\Debug\WhatIsDeze.pdb
